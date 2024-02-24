@@ -1,3 +1,3 @@
 # Quantitative_trading
 
-aMeasure of risk for Asset Management
+Measure of risk for Asset Management
